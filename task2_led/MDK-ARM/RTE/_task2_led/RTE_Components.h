@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'task1_led' 
- * Target:  'task1_led' 
+ * Project: 'task2_led' 
+ * Target:  'task2_led' 
  */
 
 #ifndef RTE_COMPONENTS_H
